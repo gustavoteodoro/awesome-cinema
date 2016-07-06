@@ -6,3 +6,6 @@
   - [HUMAN](https://humanthemovie.withgoogle.com/)
   - [One in 8 Million - The New York Times](http://www.nytimes.com/packages/html/nyregion/1-in-8-million/) 
   - [The Good Man](http://thegoodman.cc/)
+  - [Cinema Seat Preview](http://tympanus.net/Development/SeatPreview/)
+  - [Falter Inferno](http://falter.madebywild.com/#en)
+  - [Commerce of Tomorrow -  The Future of Food](http://commerceoftomorrow.com/food)
