@@ -11,3 +11,5 @@
 
 - [Experiments](#Experiments)
   - [Cinema Seat Preview](http://tympanus.net/Development/SeatPreview/)
+
+Inspired by [Awesome SVG](https://github.com/willianjusten/awesome-svg) by @willianjusten
