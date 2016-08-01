@@ -4,9 +4,9 @@
 
 ## Contents
 
-- [Movies](#Movies)
-- [Documentaries](#Documentaries)
-- [Experiments](#Experiments)
+- [Movies](#movies)
+- [Documentaries](#documentaries)
+- [Experiments](#experiments)
 
 ## Movies
   - [Falter Inferno](http://falter.madebywild.com/#en)
