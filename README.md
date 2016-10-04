@@ -10,6 +10,9 @@
 
 ## Movies
   - [Falter Inferno](http://falter.madebywild.com/#en)
+  - [Five minutes](http://www.fiveminutes.gs/)
+  - [Possibilia](https://helloeko.com/v/possibilia?autoplay=true)
+  - [We need to talk](https://helloeko.com/showcase/q98omb?autoplay=true)
 
 ## Documentaries
   - [Commerce of Tomorrow -  The Future of Food](http://commerceoftomorrow.com/food)
@@ -19,7 +22,8 @@
   - [Rio: Beyond the Map](https://beyondthemap.withgoogle.com/)
 
 ## Experiments
-  - [Cinema Seat Preview](http://tympanus.net/Development/SeatPreview/)
+  - [Clash up](https://helloeko.com/clashup/icona-pops-sensual-deee-lite?autoplay=true)
+  - [Mindblown](https://helloeko.com/mindblown/stop-with-these-questions?autoplay=true)
   - [The Good Man](http://thegoodman.cc/)
 
 ## License
