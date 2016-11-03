@@ -20,6 +20,9 @@
   - [HUMAN](https://humanthemovie.withgoogle.com/)
   - [One in 8 Million - The New York Times](http://www.nytimes.com/packages/html/nyregion/1-in-8-million/)
   - [Rio: Beyond the Map](https://beyondthemap.withgoogle.com/)
+  
+## Music videos
+  - [Seriously?](http://seriouslyjs.org/)
 
 ## Experiments
   - [Clash up](https://helloeko.com/clashup/icona-pops-sensual-deee-lite?autoplay=true)
