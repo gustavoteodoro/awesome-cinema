@@ -22,8 +22,8 @@
   - [Rio: Beyond the Map](https://beyondthemap.withgoogle.com/)
   
 ## Music videos
-  - [Seriously?](http://seriouslyjs.org/)
   - [Arcade Fire - Just a Reflektor](https://www.justareflektor.com/)
+  - [Seriously?](http://seriouslyjs.org/)
 
 ## Experiments
   - [Clash up](https://helloeko.com/clashup/icona-pops-sensual-deee-lite?autoplay=true)
