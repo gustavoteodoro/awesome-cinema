@@ -23,7 +23,7 @@
   
 ## Music videos
   - [Seriously?](http://seriouslyjs.org/)
-  - [Arcade Fire - Just a Reflektor]https://www.justareflektor.com/
+  - [Arcade Fire - Just a Reflektor](https://www.justareflektor.com/)
 
 ## Experiments
   - [Clash up](https://helloeko.com/clashup/icona-pops-sensual-deee-lite?autoplay=true)
