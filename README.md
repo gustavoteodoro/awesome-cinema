@@ -7,6 +7,7 @@
 - [Movies](#movies)
 - [Documentaries](#documentaries)
 - [Experiments](#experiments)
+- [Offline](#offline)
 
 ## Movies
   - [Falter Inferno](http://falter.madebywild.com/#en)
@@ -31,7 +32,7 @@
   - [Mindblown](https://helloeko.com/mindblown/stop-with-these-questions?autoplay=true)
   - [The Good Man](http://thegoodman.cc/)
 
-## Offline experiences
+## Offline
   - [Last Call](https://www.youtube.com/watch?v=qe9CiKnrS1w)
 
 ## License
