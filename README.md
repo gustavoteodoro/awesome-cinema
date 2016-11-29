@@ -32,7 +32,7 @@
   - [The Good Man](http://thegoodman.cc/)
 
 ## Offline experiences
-  -[Last Call](https://www.youtube.com/watch?v=qe9CiKnrS1w)
+  - [Last Call](https://www.youtube.com/watch?v=qe9CiKnrS1w)
 
 ## License
 
