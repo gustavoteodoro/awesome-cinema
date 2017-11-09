@@ -14,7 +14,6 @@
 - [Offline](#offline)
 
 ## Movies
-  - [Falter Inferno](http://falter.madebywild.com/#en)
   - [Five minutes](http://www.fiveminutes.gs/)
   - [Possibilia](https://helloeko.com/v/possibilia?autoplay=true)
   - [We need to talk](https://helloeko.com/showcase/q98omb?autoplay=true)
@@ -35,9 +34,9 @@
   - [Through The Dark](https://throughthedark.withgoogle.com/)
 
 ## Experiments
-  - [Clash up](https://helloeko.com/clashup/icona-pops-sensual-deee-lite?autoplay=true)
-  - [Mindblown](https://helloeko.com/mindblown/stop-with-these-questions?autoplay=true)
-  - [The Good Man](http://thegoodman.cc/)
+  - [Falter Inferno](http://falter.madebywild.com/#en) - Salon Alpin got asked to produce and illustrate the new cinema spot for the Austrian newspaper Falter.
+  - [Mindblown](https://helloeko.com/mindblown/stop-with-these-questions?autoplay=true) - A game question about music videos.
+  - [The Good Man](http://thegoodman.cc/) - An animation created with CSS to illustrate a story.
 
 ## Offline
   - [Last Call](https://www.youtube.com/watch?v=qe9CiKnrS1w)
