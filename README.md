@@ -2,6 +2,10 @@
 
 > A curated list of Cinema for web and Cinema made with code.
 
+## About Cinema for web and Cinem made with code
+
+> We try to organize here links for websites that use code and video to tell stories. Cinema for web is about movies that use a website to create a interactive experience, like [Rio: Beyond the Map](https://beyondthemap.withgoogle.com/). Cinema made with code is about movies created with code, like [The Good Man](http://thegoodman.cc/) (that use CSS and audio to tell a story).
+
 ## Contents
 
 - [Movies](#movies)
